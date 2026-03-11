@@ -1,0 +1,14 @@
+cat > .gitignore << EOF
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Docker volumes
+uploads/
+logs/
+
+# Node
+node_modules/
+EOF
