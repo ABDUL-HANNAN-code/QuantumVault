@@ -11,7 +11,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker)](https://docker.com)
 [![Qiskit](https://img.shields.io/badge/Qiskit-0.45.1-6929C4?style=for-the-badge&logo=ibm)](https://qiskit.org)
 
-**A futuristic social platform where users seal memories into time-locked capsules, run quantum circuit simulations, and communicate in real-time — all wrapped in a cyberpunk UI.**
+**A futuristic social platform where users seal memories into time-locked capsules, run quantum circuit simulations, and communicate in real-time  all wrapped in a cyberpunk UI.**
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [API Docs](#-api-documentation) • [Project Structure](#-project-structure)
 
@@ -329,4 +329,5 @@ This project is for educational purposes as part of a university Database System
 ⭐ Star this repo if you found it interesting!
 
 </div>
+
 
