@@ -30,7 +30,7 @@ QuantumVault is a **Database Systems final project** that blends cutting-edge te
 - 🤝 **Connect with users** through a friends and social activity system
 - 🌐 **Switch UI themes** — Dark, Light, and Cyberpunk modes
 
-> **Why it's unique:** Most student projects use simple CRUD. QuantumVault integrates quantum computing simulation, real-time communication protocols, JWT-secured APIs, rate limiting, and a role-based permission system — all in one cohesive platform.
+> **Why it's unique:** Most student projects use simple CRUD. QuantumVault integrates quantum computing simulation, real-time communication protocols, JWT-secured APIs, rate limiting, and a role-based permission system  all in one cohesive platform.
 
 ---
 
@@ -38,14 +38,14 @@ QuantumVault is a **Database Systems final project** that blends cutting-edge te
 
 ### 🕰️ Temporal Capsule System
 - Create capsules of type: **Memory**, **Message**, **Image**, **File**, or **Quantum State**
-- Capsules are **time-locked** — content is hidden until the unlock date arrives
+- Capsules are **time-locked**  content is hidden until the unlock date arrives
 - Tag, describe, and track capsule status: `locked` → `unlocked` → `expired`
 
 ### ⚛️ Quantum Circuit Engine
 - Write quantum programs in **OpenQASM** syntax
 - **Analyze** circuits: get qubit count, gate count, and circuit depth
 - **Execute** circuits and receive measurement results with probabilities
-- Powered by **Qiskit 0.45** — IBM's quantum computing SDK
+- Powered by **Qiskit 0.45**  IBM's quantum computing SDK
 
 ### 💬 Real-Time Communication
 - **WebSocket** chat for instant bidirectional messaging
@@ -56,7 +56,7 @@ QuantumVault is a **Database Systems final project** that blends cutting-edge te
 ### 🔐 Security & Auth
 - **JWT Authentication** with configurable expiry
 - **bcrypt** password hashing via Passlib
-- **Rate limiting** (SlowAPI) — configurable per-minute request caps
+- **Rate limiting** (SlowAPI)  configurable per-minute request caps
 - **TrustedHost middleware** protection
 
 ### 👥 Social Features
@@ -67,7 +67,7 @@ QuantumVault is a **Database Systems final project** that blends cutting-edge te
 
 ### 🔒 Personal Vault
 - Store private items with custom `item_type` and structured data
-- **Permission-based access control** — grant vault access to specific users
+- **Permission-based access control**  grant vault access to specific users
 - Full audit trail via activity logs
 
 ### 🎨 Cyberpunk Frontend
@@ -304,9 +304,9 @@ pytest tests/ -v
 ```
 
 Test coverage includes:
-- `test_api.py` — endpoint integration tests
-- `test_models.py` — Pydantic model validation
-- `test_integration.py` — full flow tests (auth → capsule → unlock)
+- `test_api.py`  endpoint integration tests
+- `test_models.py`  Pydantic model validation
+- `test_integration.py`  full flow tests (auth → capsule → unlock)
 
 ---
 
@@ -329,3 +329,4 @@ This project is for educational purposes as part of a university Database System
 ⭐ Star this repo if you found it interesting!
 
 </div>
+
