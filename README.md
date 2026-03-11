@@ -28,7 +28,7 @@ QuantumVault is a **Database Systems final project** that blends cutting-edge te
 - 💬 **Chat in real-time** with friends using WebSockets and Server-Sent Events
 - 🔐 **Store private data** in an encrypted personal vault with permission controls
 - 🤝 **Connect with users** through a friends and social activity system
-- 🌐 **Switch UI themes** — Dark, Light, and Cyberpunk modes
+- 🌐 **Switch UI themes**  Dark, Light, and Cyberpunk modes
 
 > **Why it's unique:** Most student projects use simple CRUD. QuantumVault integrates quantum computing simulation, real-time communication protocols, JWT-secured APIs, rate limiting, and a role-based permission system  all in one cohesive platform.
 
@@ -329,5 +329,6 @@ This project is for educational purposes as part of a university Database System
 ⭐ Star this repo if you found it interesting!
 
 </div>
+
 
 
